@@ -22,9 +22,12 @@ Design: https://www.pinterest.com/pin/464293042846052714/
 - big screen only (no responsive design)
 - fixed width and in the center of the screen
 - social icons (FontAwesome)
+- Google Fonts
 - favicon
 - advanced CSS selectors
 - copyright symbol
+- button user select none
+- button hover state
 
 ## 🧰 Getting Started
 
@@ -69,7 +72,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: [Github](https://github.com/gvazdaitis)
+Tadas: [Github](https://github.com/gvazdaitis)
 
 ## ⚠️ License
 
